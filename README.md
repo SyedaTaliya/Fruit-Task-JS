@@ -1,1 +1,1 @@
-# Fruit-Tasl-JS
+# Fruit-Task-JavaScript
